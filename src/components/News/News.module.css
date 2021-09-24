@@ -1,0 +1,60 @@
+.news {
+    padding: 35px;
+    background: #ffffff;
+    border-radius: 25px;
+    margin-bottom: 25px;
+}
+
+
+.newsInfo {
+    display: flex;
+}
+
+
+.userInfo {
+    margin-left: 20px;
+}
+
+.fullName {
+    font-size: 16px;
+    font-weight: 600;
+    color: #6D6B6B;
+}
+
+.username {
+    font-size: 14px;
+    color: #cccccc;
+    font-weight: 400;
+}
+
+.date {
+    font-size: 13px;
+    color: #8B8B8B;
+}
+
+.newsTitle {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 0;
+}
+
+.newsText {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.newsFooter {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.likesCount {
+    font-size: 16px;
+    color: #000;
+    margin-left: 10px;
+}
+
+.likes {
+    display: flex;
+    cursor: pointer;
+}

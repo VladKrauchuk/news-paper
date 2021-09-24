@@ -1,0 +1,25 @@
+.Home {
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftBlock {
+    width: 70%;
+}
+
+.rightBlock {
+    width: 25%;
+}
+
+.peopleRecommendations {
+    padding: 35px;
+    background: #ffffff;
+    border-radius: 25px;
+    margin-bottom: 25px;
+}
+
+.newsRecommendations {
+    padding: 35px;
+    background: #ffffff;
+    border-radius: 25px;
+}

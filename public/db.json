@@ -1,0 +1,95 @@
+{
+  "news": [
+    {
+      "_id": "614c786b7925b3e53086158e",
+      "user": {
+        "fullName": "Nettie Holt",
+        "username": "Gonzales",
+        "avatarUrl": "https://source.unsplash.com/random/100x100"
+      },
+      "text": "Elit aute ipsum eu pariatur irure et nostrud et tempor. Dolore sit enim culpa nisi ullamco amet amet reprehenderit mollit enim quis tempor. Sit qui exercitation fugiat mollit qui id ipsum. Sunt exercitation consectetur elit fugiat magna fugiat et nostrud sint ut ullamco fugiat excepteur ex. Velit ea deserunt nulla aute tempor excepteur ut enim.",
+      "date": "Tue Mar 11 1975 13:39:54 GMT+0300 (Москва, стандартное время)",
+      "title": "Enim ut officia elit minim incididunt commodo esse labore.",
+      "likesCount": 53,
+      "liked": true
+    },
+    {
+      "_id": "614c786b77d04765b44afdf4",
+      "user": {
+        "fullName": "Howell Holcomb",
+        "username": "Hahn",
+        "avatarUrl": "https://source.unsplash.com/random/100x100"
+      },
+      "text": "Ad elit deserunt duis laborum exercitation cupidatat incididunt cupidatat excepteur. Culpa qui eiusmod occaecat magna sint voluptate eiusmod cupidatat. Velit dolor do nisi amet duis esse ex deserunt commodo est minim fugiat adipisicing aute. Excepteur ea ad ipsum officia dolore do nulla tempor sunt do duis consectetur. Adipisicing anim ad est aliqua cupidatat ipsum.",
+      "date": "Wed Mar 21 1984 04:09:52 GMT+0300 (Москва, стандартное время)",
+      "title": "Consectetur commodo aliqua amet ullamco aliqua.",
+      "likesCount": 32,
+      "liked": true
+    },
+    {
+      "_id": "614c786b2844c3878c51b72a",
+      "user": {
+        "fullName": "Valencia Solis",
+        "username": "Christensen",
+        "avatarUrl": "https://source.unsplash.com/random/100x100"
+      },
+      "text": "Proident mollit eiusmod exercitation mollit ipsum fugiat non est tempor officia eu. Voluptate mollit proident amet eiusmod adipisicing ex amet laboris sunt cillum ipsum. Aute nisi excepteur consequat mollit irure voluptate sit culpa sit nostrud. Quis in sunt laboris fugiat in consequat laborum adipisicing cupidatat. Ut aliquip aute mollit pariatur esse excepteur esse.",
+      "date": "Sat Mar 09 1991 04:45:55 GMT+0300 (Москва, стандартное время)",
+      "title": "Incididunt commodo commodo Lorem elit voluptate culpa reprehenderit enim officia.",
+      "likesCount": 43,
+      "liked": false
+    },
+    {
+      "_id": "614c786b797692f3d296c38d",
+      "user": {
+        "fullName": "Johns Chen",
+        "username": "Smith",
+        "avatarUrl": "https://source.unsplash.com/random/100x100"
+      },
+      "text": "Voluptate elit qui culpa tempor qui in veniam ipsum aute duis. Fugiat Lorem enim officia ullamco laboris tempor laboris et. Velit minim sunt excepteur deserunt ut pariatur id officia exercitation laboris. Amet duis incididunt commodo pariatur adipisicing consectetur incididunt exercitation fugiat adipisicing id reprehenderit nisi eu. Veniam dolore ea consequat tempor cupidatat nostrud proident.",
+      "date": "Tue Dec 19 2006 01:16:51 GMT+0300 (Москва, стандартное время)",
+      "title": "Incididunt reprehenderit veniam aliqua sit.",
+      "likesCount": 54,
+      "liked": true
+    },
+    {
+      "_id": "614c786b2c4229d4fc342677",
+      "user": {
+        "fullName": "Golden Price",
+        "username": "Strickland",
+        "avatarUrl": "https://source.unsplash.com/random/100x100"
+      },
+      "text": "Eiusmod commodo magna consequat sit ex laborum est cupidatat minim aliquip irure commodo consequat elit. Cillum commodo eu ea laborum cupidatat sint consequat in aute officia et excepteur eu. Proident ipsum amet sit aliquip occaecat dolor aute Lorem. Velit commodo esse sunt consectetur aute duis ullamco officia magna. Eu commodo sit eu dolore deserunt in in fugiat dolore officia labore dolor.",
+      "date": "Thu Apr 02 2015 11:33:55 GMT+0300 (Москва, стандартное время)",
+      "title": "Fugiat officia dolore ullamco eu ipsum laborum veniam Lorem pariatur irure aute Lorem do.",
+      "likesCount": 31,
+      "liked": true
+    },
+    {
+      "_id": "614c786b15c16140452d1fed",
+      "user": {
+        "fullName": "Marcy Carney",
+        "username": "Rivers",
+        "avatarUrl": "https://source.unsplash.com/random/100x100"
+      },
+      "text": "Ex anim commodo voluptate laborum deserunt sint sunt minim. Quis consectetur qui magna id aliqua ad incididunt commodo ullamco est ea eiusmod qui cillum. Ipsum magna anim fugiat proident pariatur. Consectetur deserunt aute mollit consectetur aute consequat veniam id. Quis eu ad nulla adipisicing cupidatat deserunt elit in quis.",
+      "date": "Sun Jul 11 1993 00:29:22 GMT+0400 (Москва, летнее время)",
+      "title": "Do eiusmod do esse cillum commodo dolor minim ad cillum pariatur.",
+      "likesCount": 25,
+      "liked": false
+    },
+    {
+      "_id": "614c786b4a6e19ce17b5486f",
+      "user": {
+        "fullName": "Shari Kim",
+        "username": "Dean",
+        "avatarUrl": "https://source.unsplash.com/random/100x100"
+      },
+      "text": "Et sint eu laboris do. Velit proident sit laborum veniam. Pariatur sint nisi labore labore nisi culpa nisi cupidatat id incididunt labore consequat. Elit eiusmod nostrud ullamco ipsum. Deserunt cillum ut consectetur nulla reprehenderit laborum sint non.",
+      "date": "Wed Apr 08 1981 02:14:32 GMT+0400 (Москва, летнее время)",
+      "title": "Velit duis et elit aliquip tempor magna laboris enim commodo deserunt excepteur cupidatat sunt.",
+      "likesCount": 43,
+      "liked": true
+    }
+  ]
+}
